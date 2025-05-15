@@ -15,6 +15,6 @@ This framework can easily be adapted for: \
 🔗 Check it out here:\
 📘 [Kaggle Notebook](https://www.kaggle.com/code/samyukthasaravanan/boardbrain-ai-that-reads-rulebooks-for-you) \
 ✍️ [Medium Blog](https://medium.com/@samyuktha_saravanan/boardbrain-the-genai-assistant-that-reads-rulebooks-for-you-a7e572026aad) \
-🎥 [YouTube Video](https://www.youtube.com/watch?v=O7mkUAm9TFo) \
+🎥 [YouTube Video](https://www.youtube.com/watch?v=O7mkUAm9TFo) 
 
 Note: This was my Capstone project for the Generative AI Intensive Course hosted by Google and Kaggle.
