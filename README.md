@@ -12,7 +12,7 @@ This framework can easily be adapted for:
 
 **Anywhere there’s a long document and a user with questions, this approach fits in!**
 
-🔗 Check it out here:
+🔗 Check it out here:\
 📘 [Kaggle Notebook](https://www.kaggle.com/code/samyukthasaravanan/boardbrain-ai-that-reads-rulebooks-for-you) \
 ✍️ [Medium Blog](https://medium.com/@samyuktha_saravanan/boardbrain-the-genai-assistant-that-reads-rulebooks-for-you-a7e572026aad) \
 🎥 [YouTube Video](https://www.youtube.com/watch?v=O7mkUAm9TFo) \
